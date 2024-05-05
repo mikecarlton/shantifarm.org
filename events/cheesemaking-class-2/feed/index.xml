@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Shanti Farm - Events</title>
+		<link>/events/</link>
+		<description>A place of peace and tranquility - Events</description>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<pubDate>Tue, 18 Feb 2020 23:16:07 +0000</pubDate>
+		<atom:link href="/events/feed/" rel="self" type="application/rss+xml" />
+				
+	</channel>
+</rss>

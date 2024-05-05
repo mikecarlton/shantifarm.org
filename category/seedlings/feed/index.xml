@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Seedlings &#8211; Shanti Farm</title>
+	<atom:link href="/category/seedlings/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place of peace and tranquility</description>
+	<lastBuildDate>Sun, 13 Jan 2019 21:33:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/02/cropped-Chicken-1-32x32.jpg</url>
+	<title>Seedlings &#8211; Shanti Farm</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tomato Seedlings for sale</title>
+		<link>/2017/04/20/tomato-seedlings-for-sale/</link>
+		
+		<dc:creator><![CDATA[Pam Carlton]]></dc:creator>
+		<pubDate>Thu, 20 Apr 2017 14:56:58 +0000</pubDate>
+				<category><![CDATA[Garden]]></category>
+		<category><![CDATA[Seedlings]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[garden]]></category>
+		<guid isPermaLink="false">/?p=708</guid>
+
+					<description><![CDATA[Now that the weather is getting nice it is time to think about your summer garden. I have several varieties of organically grown tomato seedlings for sale. Some of the varieties include Black Krim, Cherokee Purple, Gold Medal and White&#8230; <br /><a class="read-more-button" href="/2017/04/20/tomato-seedlings-for-sale/">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="size-medium wp-image-711 aligncenter" src="/wp-content/uploads/2017/04/Tomatoes-300x225.jpg" alt="Tomatoes" width="300" height="225" srcset="/wp-content/uploads/2017/04/Tomatoes-300x225.jpg 300w, /wp-content/uploads/2017/04/Tomatoes-768x576.jpg 768w, /wp-content/uploads/2017/04/Tomatoes-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><span class="notranslate">Now that the weather is getting nice it is time to think about your summer garden. I have several varieties of organically grown tomato seedlings for sale. Some of the varieties include Black Krim, Cherokee Purple, Gold Medal and White Cherry.</span></p>
+<p>They are $3 per plant in 4&#8243; pot or 4 for $10.  Email me <a href="mailto:pam@shantifarm.org">pam@shantifarm.org</a> if you are interested.</p>
+<p><span class="notranslate">There will be more seedlings (peppers, eggplant, beans, cucumbers, basil) coming soon!</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Spring seedlings are available</title>
+		<link>/2016/03/21/438/</link>
+		
+		<dc:creator><![CDATA[Pam Carlton]]></dc:creator>
+		<pubDate>Mon, 21 Mar 2016 16:26:29 +0000</pubDate>
+				<category><![CDATA[Garden]]></category>
+		<category><![CDATA[Seedlings]]></category>
+		<guid isPermaLink="false">/?p=438</guid>
+
+					<description><![CDATA[Happy second day of spring!!  Many of our spring seedlings are ready for you to buy and plant in your gardens.  We have tomatoes, cucumber, basil, cantaloupe and watermelon.  More will be coming soon.  You can see what we have&#8230; <br /><a class="read-more-button" href="/2016/03/21/438/">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="size-medium wp-image-430 aligncenter" src="/wp-content/uploads/2016/03/Watermelon-300x225.jpg" alt="Watermelon" width="300" height="225" srcset="/wp-content/uploads/2016/03/Watermelon-300x225.jpg 300w, /wp-content/uploads/2016/03/Watermelon-768x576.jpg 768w, /wp-content/uploads/2016/03/Watermelon-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Happy second day of spring!!  <span id="more-438"></span>Many of our spring seedlings are ready for you to buy and plant in your gardens.  We have tomatoes, cucumber, basil, cantaloupe and watermelon.  More will be coming soon.  You can see what we have on our <a href="/seedlings/" target="_blank" rel="noopener noreferrer">seedling page</a>.</p>
+<p>&nbsp;</p>
+<p>Happy gardening!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

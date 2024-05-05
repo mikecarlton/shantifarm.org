@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Goats &#8211; Shanti Farm</title>
+	<atom:link href="/category/goats/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place of peace and tranquility</description>
+	<lastBuildDate>Sun, 14 Feb 2016 22:08:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/02/cropped-Chicken-1-32x32.jpg</url>
+	<title>Goats &#8211; Shanti Farm</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Breaking Ground on the Goat Barn</title>
+		<link>/2016/02/14/breaking-ground-on-the-goat-barn/</link>
+		
+		<dc:creator><![CDATA[Pam Carlton]]></dc:creator>
+		<pubDate>Sun, 14 Feb 2016 22:06:06 +0000</pubDate>
+				<category><![CDATA[Goats]]></category>
+		<guid isPermaLink="false">/?p=376</guid>
+
+					<description><![CDATA[We have broken ground on the goat barn!  I am so excited to see this come together.  It will probably not be finished until April, but this is a step in the right direction!]]></description>
+										<content:encoded><![CDATA[<p>We have broken ground on the goat barn!  I am so excited to see<span id="more-376"></span> this come together.  It will probably not be finished until April, but this is a step in the right direction!</p>
+<div id="attachment_377" style="width: 310px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-377" class="size-medium wp-image-377" src="/wp-content/uploads/2016/02/Goat-Barn-1-300x225.jpg" alt="Leveling the ground and building a retaining wall." width="300" height="225" srcset="/wp-content/uploads/2016/02/Goat-Barn-1-300x225.jpg 300w, /wp-content/uploads/2016/02/Goat-Barn-1-768x576.jpg 768w, /wp-content/uploads/2016/02/Goat-Barn-1-1024x768.jpg 1024w, /wp-content/uploads/2016/02/Goat-Barn-1.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /><p id="caption-attachment-377" class="wp-caption-text">Leveling the ground and building a retaining wall.</p></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

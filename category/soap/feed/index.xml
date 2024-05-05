@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Soap &#8211; Shanti Farm</title>
+	<atom:link href="/category/soap/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place of peace and tranquility</description>
+	<lastBuildDate>Mon, 08 Feb 2016 13:06:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/02/cropped-Chicken-1-32x32.jpg</url>
+	<title>Soap &#8211; Shanti Farm</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dragonfly Guest Soaps</title>
+		<link>/2016/02/07/dragonfly-guest-soaps/</link>
+		
+		<dc:creator><![CDATA[Pam Carlton]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2016 18:41:35 +0000</pubDate>
+				<category><![CDATA[Soap]]></category>
+		<guid isPermaLink="false">/?p=297</guid>
+
+					<description><![CDATA[Yesterday my friend Stef, her daughter Sophia, my son Alex and I had a blast making soap.  Here is one of the dragonfly guest soaps we made with my new mold.  The kids chose the scent.  It is lemongrass with&#8230; <br /><a class="read-more-button" href="/2016/02/07/dragonfly-guest-soaps/">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="size-medium wp-image-298 aligncenter" src="/wp-content/uploads/2016/02/IMG_1336-e1454870001368-300x274.jpg" alt="Dragonfly Soap" width="300" height="274" srcset="/wp-content/uploads/2016/02/IMG_1336-e1454870001368-300x274.jpg 300w, /wp-content/uploads/2016/02/IMG_1336-e1454870001368-768x701.jpg 768w, /wp-content/uploads/2016/02/IMG_1336-e1454870001368.jpg 816w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Yesterday my friend Stef, her daughter Sophia, my son Alex and I had a blast making soap.  <span id="more-297"></span>Here is one of the dragonfly guest soaps we made with my new mold.  The kids chose the scent.  It is lemongrass with a little grapefruit.  The kids did great and the scent is AMAZING!  We put some flecks of turmeric in it for a little color.  These will be for sale after they cure (in 4 weeks).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

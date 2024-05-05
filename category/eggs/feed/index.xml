@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eggs &#8211; Shanti Farm</title>
+	<atom:link href="/category/eggs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place of peace and tranquility</description>
+	<lastBuildDate>Sun, 21 Feb 2016 19:57:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/02/cropped-Chicken-1-32x32.jpg</url>
+	<title>Eggs &#8211; Shanti Farm</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lots of eggs for sale</title>
+		<link>/2016/02/21/lots-of-eggs-for-sale/</link>
+		
+		<dc:creator><![CDATA[Pam Carlton]]></dc:creator>
+		<pubDate>Sun, 21 Feb 2016 19:51:14 +0000</pubDate>
+				<category><![CDATA[Chickens]]></category>
+		<category><![CDATA[Eggs]]></category>
+		<guid isPermaLink="false">/?p=388</guid>
+
+					<description><![CDATA[We currently have lots of eggs if anyone is in need of fresh eggs from free range, happy chickens.  The chickens are fed organic feed and veggie scraps from our organic gardens.  They are $7 a dozen.  Email me at&#8230; <br /><a class="read-more-button" href="/2016/02/21/lots-of-eggs-for-sale/">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-208 aligncenter" src="/wp-content/uploads/2016/02/IMG_1310-300x225.jpg" alt="IMG_1310" width="300" height="225" srcset="/wp-content/uploads/2016/02/IMG_1310-300x225.jpg 300w, /wp-content/uploads/2016/02/IMG_1310-768x576.jpg 768w, /wp-content/uploads/2016/02/IMG_1310-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>We currently have lots of eggs if anyone is in need of fresh eggs from free range, happy chickens.  The chickens are fed organic feed and veggie scraps from our organic gardens.  They are $7 a dozen.  Email me at pam@shantifarm.org if you are interested.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
